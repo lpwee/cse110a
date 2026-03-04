@@ -4,3 +4,6 @@
 [submodule "homework-3-lpwee"]
 	path = homework-3-lpwee
 	url = https://github.com/ucsc-cse110a/homework-3-lpwee.git
+[submodule "homework-4-lpwee"]
+	path = homework-4-lpwee
+	url = https://github.com/ucsc-cse110a/homework-4-lpwee.git
